@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8585c464.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.9aa3c4d2.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.9aa3c4d2.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.48948ee3.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.48948ee3.js.map",
-    "static/js/2.a2e040c6.chunk.js": "/react-gh-pages/static/js/2.a2e040c6.chunk.js",
-    "static/js/2.a2e040c6.chunk.js.map": "/react-gh-pages/static/js/2.a2e040c6.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.07343371e85fde5d8faa574c0f1d50d2.js": "/react-gh-pages/precache-manifest.07343371e85fde5d8faa574c0f1d50d2.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.8585c464.chunk.css.map": "/react-gh-pages/static/css/main.8585c464.chunk.css.map",
-    "static/js/2.a2e040c6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.a2e040c6.chunk.js.LICENSE.txt"
+    "main.css": "/DLA9LegacySwagOwner/static/css/main.8585c464.chunk.css",
+    "main.js": "/DLA9LegacySwagOwner/static/js/main.a41190bc.chunk.js",
+    "main.js.map": "/DLA9LegacySwagOwner/static/js/main.a41190bc.chunk.js.map",
+    "runtime-main.js": "/DLA9LegacySwagOwner/static/js/runtime-main.4d373f95.js",
+    "runtime-main.js.map": "/DLA9LegacySwagOwner/static/js/runtime-main.4d373f95.js.map",
+    "static/js/2.a2e040c6.chunk.js": "/DLA9LegacySwagOwner/static/js/2.a2e040c6.chunk.js",
+    "static/js/2.a2e040c6.chunk.js.map": "/DLA9LegacySwagOwner/static/js/2.a2e040c6.chunk.js.map",
+    "index.html": "/DLA9LegacySwagOwner/index.html",
+    "precache-manifest.2d7762af68ca13cf8fb1846214c14e07.js": "/DLA9LegacySwagOwner/precache-manifest.2d7762af68ca13cf8fb1846214c14e07.js",
+    "service-worker.js": "/DLA9LegacySwagOwner/service-worker.js",
+    "static/css/main.8585c464.chunk.css.map": "/DLA9LegacySwagOwner/static/css/main.8585c464.chunk.css.map",
+    "static/js/2.a2e040c6.chunk.js.LICENSE.txt": "/DLA9LegacySwagOwner/static/js/2.a2e040c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48948ee3.js",
+    "static/js/runtime-main.4d373f95.js",
     "static/js/2.a2e040c6.chunk.js",
     "static/css/main.8585c464.chunk.css",
-    "static/js/main.9aa3c4d2.chunk.js"
+    "static/js/main.a41190bc.chunk.js"
   ]
 }
